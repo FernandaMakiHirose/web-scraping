@@ -3,12 +3,11 @@ Um web scraper é uma ferramenta de coleta de dados web, uma forma de mineraçã
 
 ## Requisitos
 - Python
-- Visual Studio Code ou Terminal
-- Instalar bibliotecas
+- Pycharm ou Terminal
 
 ## Bibliotecas 
-- [requests](https://docs.python-requests.org/pt_BR/latest/user/install.html)
-- [BeautifulSoup](https://www.ti-enxame.com/pt/python-3.x/como-instalar-o-beautifulsoup-em-python3-quando-dir-padrao-e-python2.7/822820620/)
+- requests
+- BeautifulSoup
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
